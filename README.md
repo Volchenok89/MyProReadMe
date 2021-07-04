@@ -6,6 +6,8 @@ This NodeJS app will allow us to create a porfessional README.md for our Git Web
 You will Be able to enjoy the perks of using...
 
 -NODE.JS
+-GitBash  or
+-Terminal
 
 ---
 ### **_Table of Contents_**
